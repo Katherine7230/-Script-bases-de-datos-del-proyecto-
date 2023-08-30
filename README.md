@@ -1,1 +1,1 @@
-# -Script-bases-de-datos-del-proyecto-
+# - creación de la estructura de la BD
